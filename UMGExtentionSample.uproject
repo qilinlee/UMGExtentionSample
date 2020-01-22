@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{71570973-4B55-F7EF-765C-238B50E7F07B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UMGExtentionSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
+		}
+	]
+}
